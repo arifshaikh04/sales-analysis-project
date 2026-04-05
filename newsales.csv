@@ -1,0 +1,11 @@
+OrderID,City,Product,Category,Quantity,Price
+101,Mumbai,Laptop,Electronics,1,55000
+102,Delhi,Mobile,Electronics,2,20000
+103,Pune,Chair,Furniture,3,3000
+104,Mumbai,Sofa,Furniture,,25000
+105,Bangalore,Headphones,Electronics,4,
+106,Mumbai,Laptop,Electronics,1,55000
+107,Delhi,Mobile,Electronics,2,20000
+108,,Chair,Furniture,3,3000
+109,Pune,Sofa,Furniture,1,25000
+110,Mumbai,Headphones,Electronics,4,2000
